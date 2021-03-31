@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-mini-project"]=this["webpackJsonpreact-mini-project"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),o=c.n(i),s=c(0);var j=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("p",{children:"hello"})})};o.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(j,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.11eedfb2.chunk.js.map
